@@ -1,0 +1,17 @@
+{
+  "xauusdm": {
+    "pricePrecision": 3
+  },
+  "eurusdm": {
+    "pricePrecision": 5
+  },
+  "btcusdm": {
+    "pricePrecision": 2
+  },
+  "us500m": {
+    "pricePrecision": 2
+  },
+  "ethusdm": {
+    "pricePrecision": 2
+  }
+}
